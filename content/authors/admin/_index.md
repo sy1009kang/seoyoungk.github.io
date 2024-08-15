@@ -22,10 +22,10 @@ role: Ph.D.Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: KAIST UVR Lab
-    url: https://www.stanford.edu/
+    url: https://uvrlab.org/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include affective computing for AR/VR, and avatar-mediated communication. 
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,6 +54,6 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Seoyoung Kang is a Ph.D.Candidate at KAIST UV Lab. Her research interests include
+affective computing for AR/VR, and avatar-mediated communication. She is in third year Ph.D.Student 
+and graduating in Feb, 2026 (expected).
